@@ -1,0 +1,9 @@
+﻿  MyLibrary.cpp.cpp
+E:\MyLibrary.cpp\MyLibrary.cpp\MyLibrary.cpp.cpp(7,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\MyLibrary.cpp\MyLibrary.cpp\MyLibrary.h(61,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\MyLibrary.cpp\MyLibrary.cpp\MyLibrary.cpp.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\MyLibrary.cpp\MyLibrary.cpp\MyMathLibrary.h(57,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\MyLibrary.cpp\MyLibrary.cpp\MyMathLibrary.h(64,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\MyLibrary.cpp\MyLibrary.cpp\MyMathLibrary.h(66,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\MyLibrary.cpp\MyLibrary.cpp\MyMathLibrary.h(72,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open E:\MyLibrary.cpp\x64\Debug\MyLibrary.cpp.exe for writing
